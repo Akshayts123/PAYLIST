@@ -31,7 +31,7 @@ class RouteWidget extends StatelessWidget {
     switch (route) {
       case '/':
         return Homepage();
-      case '/home2':
+      case '/home':
         return Homepage();
       default:
         return Homepage();
